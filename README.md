@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bblhd
+- 👀 I obsess over making worse versions of existing software
+- 🌱 I’m currently learning operating systems development
+- ✨ Believe in yourself!
