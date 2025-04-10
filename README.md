@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bblhd
 - 👀 I obsess over making simple and useful software
-- 🌱 I’m currently learning operating system && programming language development
+- 🌱 I’m always learning operating system && programming language development
 - ✨ Believe in yourself!
